@@ -1,3 +1,4 @@
+import "@/lib/polyfill";
 import { PDFParse } from "pdf-parse";
 import path from "path";
 import { pathToFileURL } from "url";
